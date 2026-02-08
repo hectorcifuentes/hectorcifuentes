@@ -46,7 +46,7 @@ Plataforma de gestión dinámica de formularios para servicios de seguros y fina
 
 ### 💳 Productos en MACH
 Trabajando en la evolución de productos financieros que impactan a millones de usuarios:
-- Créditos de consumo con análisis de riesgo avanzado
+- Créditos de consumo
 - Ahorro automatizado 24/7
 - Gestión de fondos mutuos
 
